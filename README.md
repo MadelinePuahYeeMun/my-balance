@@ -1,9 +1,13 @@
 # MY Balance by MADyX
 
-**Team Members**: Ng Yi Xiang, Madeline Puah Yee Mun  
-**Problem Statement**: Stress & Workload Manager  
-**Video Presentation**: [Unlisted Youtube Link]  
-**Presentation Slides**: [https://pdflink.to/82135f6b/](https://pdflink.to/82135f6b/)  
+**Team Members**: Ng Yi Xiang, Madeline Puah Yee Mun
+
+**Problem Statement**: Stress & Workload Manager
+
+**Video Presentation**: [https://youtu.be/XQWGd_xNz_0](https://youtu.be/XQWGd_xNz_0)
+
+**Presentation Slides**: [https://pdflink.to/82135f6b/](https://pdflink.to/82135f6b/)
+
 
 ---
 
